@@ -1,15 +1,11 @@
 {
-  "name": "nativefier-placeholder",
+  "name": "fmgpacker-placeholder",
   "version": "1.0.0",
-  "description": "Placeholder for the nativefier cli to override with a target url",
+  "description": "Placeholder for the fmgpacker cli to override with a target url",
   "main": "lib/main.js",
-  "author": "Jia Hao",
+  "author": "Jia Hao / Azgaar",
   "license": "MIT",
-  "keywords": [
-    "desktop",
-    "electron",
-    "placeholder"
-  ],
+  "keywords": ["desktop", "electron", "placeholder"],
   "scripts": {},
   "dependencies": {
     "electron-context-menu": "0.x",

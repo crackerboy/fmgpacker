@@ -1,7 +1,7 @@
 {
   "name": "fmgpacker",
   "version": "0.1.0",
-  "description": "Built Electron Application for Azgaar;s Fantasy map Generator",
+  "description": "Build Electron Application for Azgaar;s Fantasy map Generator",
   "license": "MIT",
   "author": "Goh Jia Hao (nativefier) / Azgaar (FMG)",
   "engines": {
